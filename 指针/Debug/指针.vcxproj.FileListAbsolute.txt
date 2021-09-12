@@ -1,0 +1,3 @@
+C:\Users\Administrator\Desktop\学习资料\C++\指针\Debug\指针.exe
+C:\Users\Administrator\Desktop\学习资料\C++\指针\Debug\指针.pdb
+F:\学习资料\C++\指针\Debug\指针.exe
